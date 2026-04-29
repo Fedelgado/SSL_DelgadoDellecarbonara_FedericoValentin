@@ -1,1 +1,1 @@
-# SSL_DelgadoDellecarbonara_FedericoValentin
+Este es mi repositorio personal para la materia Sintaxis y Semantica de los Lenguajes, aquí estaré subiendo los TPs que iremos haciendo, y por lo tanto tendrá commits y pushes sobre lo que se vaya avanzando de cada uno de ellos.
